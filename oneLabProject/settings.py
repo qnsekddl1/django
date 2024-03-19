@@ -142,9 +142,9 @@ DATABASES = {
         # DBMS 모듈 경로
         'ENGINE': 'django.db.backends.mysql',
         # DATABASE 이름
-        'NAME': 'onelab-ky',
+        'NAME': 'onelab',
         # 계정 이름
-        'USER': 'onelab',
+        'USER': 'onelab-ky',
         # 비밀번호
         'PASSWORD': '1234',
         # DBMS가 설치된 서버 PC의 IP
