@@ -142,7 +142,7 @@ DATABASES = {
         # DBMS 모듈 경로
         'ENGINE': 'django.db.backends.mysql',
         # DATABASE 이름
-        'NAME': 'onelab',
+        'NAME': 'onelab-ky',
         # 계정 이름
         'USER': 'onelab',
         # 비밀번호
