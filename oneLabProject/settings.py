@@ -144,7 +144,7 @@ DATABASES = {
         # DATABASE 이름
         'NAME': 'onelab',
         # 계정 이름
-        'USER': 'onelab',
+        'USER': 'onelab-ky',
         # 비밀번호
         'PASSWORD': '1234',
         # DBMS가 설치된 서버 PC의 IP
