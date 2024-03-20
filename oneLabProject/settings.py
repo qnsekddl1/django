@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-m&1gjc)a!0m&t4-skkigdplzw%e&f)5j@ksztwce%#bqaksqs)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['43.203.122.187', '127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['43.202.67.89', '127.0.0.1', 'localhost']
 
 
 # Application definition
@@ -144,7 +144,7 @@ DATABASES = {
         # DATABASE 이름
         'NAME': 'onelab',
         # 계정 이름
-        'USER': 'onelab-ky',
+        'USER': 'onelab',
         # 비밀번호
         'PASSWORD': '1234',
         # DBMS가 설치된 서버 PC의 IP
