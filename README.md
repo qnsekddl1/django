@@ -36,13 +36,13 @@
 
 ## 💻 개발환경
 - **Version** : Python 3.10
-- **IDE** : Python, PyCharm, Visual Studio Code
+- **IDE** : PyCharm, Visual Studio Code
 - **Framework** : Djanago
-- **ORM** : Djanago
+- **ORM** : Djanago ORM
 
 ## ⚙️ 기술 스택
 - **Server** : AWS EC2
-- **DataBase** : AWS RDS, MySQL
+- **DataBase** : MySQL
 - **WS/WAS** : Nginx, Gunicorn
 - **아이디어 회의** : Slack, Zoom
 
