@@ -44,6 +44,7 @@
 - **Server** : AWS EC2
 - **DataBase** : MySQL
 - **WS/WAS** : Nginx, Gunicorn
+- **Frontend** : HTML, CSS, JS
 - **아이디어 회의** : Slack, Zoom
 
 ## 📌 주요 기능
